@@ -1,6 +1,6 @@
 +function($){
  
-  $.fn.stefcountdown = function(options){
+  $.fn.stefRedirectPage = function(options){
     var element = this;
     var setting = $.extend({
        url: 'https://www.google.com/',
